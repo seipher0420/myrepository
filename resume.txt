@@ -1,0 +1,58 @@
+
+Project
+2014-present
+(FEP)Front End Processing System for Aeon Credit Service Asia(Hong Kong) 
+- It is an automated system communicating with Card Brand Networks (Visa, MasterCard, JCB, Amex, CUP) using ISO 8583 Message Format for Credit Card Transaction. 
+- Translates ISO 8583 BYTE Data to ASCII readable data for processing and manipulation.
+- Communicates with Host Security Module(HSM-Thales) for Card Security Verification/Generation (PIN,CVV1,CVV2, ARQC, etc.) and also communicates with Host(AS400) for 
+  Final Authorization of the Transaction, Pin Generation Request and CVV Generation
+
+Experiences in Development Team
+
+Build/deployment Manager
+- Configuration Management plan
+- Source Code Management using GIT,SVN,MAVEN for other projects ex. (Malaysia, Cambodia, Hongkong)
+- Maintaining source code,configuration files,sql files 
+- Merging of source code from different branches and create new branches for developers
+- Building projects for the deployment of project builds in Production Server
+
+Credit Card Enrollment Module
+- Project deployment (Onsite Support and Development - HongKong)
+  To develop Credit Card Enrollment and Migration Facility Module
+  * Credit Card Enrollment Module
+		-  Create and save new embossed cards, Reissue Cards and or renew old cards from AS400 system 
+  * Migration Facility Module
+	    - Syncing of Credit Card Details from New FEP System to Bank24 Servers 
+- Testing Activities in Onsite: 
+  Unit Testing, System Integration Testing and Regression Testing of Card Enrollment module
+- Supported Migration for Production releases with clients 
+
+Maintenance and Support Service
+- Support Onsite Team for documentation(release sheets, Test Results) and change request of clients
+- Analyze, develop and test for the issues that will be raised by client or Onsite Team
+
+Card Brand Enhancements
+- Creation of Impact Analysis for Brand enhancement ex. (Apple Pay for Visa/CUP)
+- development for enhancement will be made upon approval of card brands
+- Use of Card Brand simulator for testing the brand enhancements
+
+EMV Project Module,
+- Support onsite team for the brand certification
+	* fix isssues that were encountered in certification phase
+	
+
+
+Skills
+JAVA/HIBERNATE/SPRING/WSDL SOAP Web Service
+PHP/HTML/CSS/
+IBM/AS400
+Symfoware DB/Interstage/POSTgreSQL/MySQL
+Linux/CentOS Shell Script
+GIT,SVN,MAVEN,Nexus  - Source Code Management
+JCB,MASTERCARD,AMEX,CUP,VISA Simulator Testing Tool
+
+
+TRAINING
+JAVA Bootcamp Training- 2014
+Card Brand Training - 2014
+FEP Training - 2014
